@@ -22,13 +22,10 @@ permalink: /about/
 - C# (Unity)
 - Python (数据处理和算法)
 - C++ (性能关键部分)
-- JavaScript/TypeScript (Web 端可视化)
 
 ### 工具和框架
 - Unity 3D
-- OpenGL / DirectX
-- WebGL / Three.js
-- Jupyter Notebook
+- Unreal Engine
 
 ## 项目经验
 
@@ -88,6 +85,8 @@ permalink: /about/
 
 如果你对以下内容感兴趣，欢迎联系我：
 - 3DGS 技术讨论
+- Unity
+- Unreal Engine
 - 点云渲染项目合作
 - 计算机图形学学习交流
 - 技术博客投稿
